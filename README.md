@@ -1,6 +1,4 @@
-# One Month Rails
+# sweetalmondRose
 
-This is the pinteresting sample application for
-[*One Month Rails*](http://onemonthrails.com)
 
-by [Boris Dimenbort](http://mattangriffel.com)
+[*sweetalmondRose*](http://sweetalmondRose.com)
