@@ -1,4 +1,4 @@
-Pinteresting::Application.routes.draw do
+SweetalmondRose::Application.routes.draw do
   root "pages#home"
   get "about" => "pages#about" # creates about_path
   get "meow" => "pages#meow" # creates meow_path
